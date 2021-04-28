@@ -1,18 +1,7 @@
 <div align="center" markdown="1">
-
-<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2D2K45312x0M1q2C0a3P/jest-logo.svg" width="200">
-
-<h1>Jest cheat sheet</h1>
-
+  <h1>Jest cheat sheet</h1>
 </div>
 
-_I recommend [Mrm](https://github.com/sapegin/mrm-tasks/tree/master/packages/mrm-task-jest) and [jest-codemods](https://github.com/skovhus/jest-codemods) for single-command Jest installation and easy migration from other frameworks._
-
-<!-- To reformat run: npx prettier --print-width 100 --single-quote --no-semi --prose-wrap never --write Readme.md -->
-
-<!-- To update TOC run: npx markdown-toc --maxdepth 3 -i Readme.md -->
-
-<!-- toc -->
 
 - [Test structure](#test-structure)
 - [Matchers](#matchers)
